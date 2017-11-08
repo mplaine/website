@@ -29,6 +29,9 @@
 			"jobTitle": "phd",
 			"url": "http://www.tarfahalrashed.com",
 			"github": "tarfahalrashed"
+		},
+		{
+			"jobTitle": "phd"
 		}
 	],
 	"@context": "http://schema.org"
